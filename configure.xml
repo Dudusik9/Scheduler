@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scripts>
+	<script id = "1">
+		<name>scripts\runTest.bat</name>
+		<startTime>12:00</startTime>
+		<launchDay>?</launchDay>
+	</script>
+<!-- 	<script id = "2">
+		<name>scripts\runTest1.bat</name>
+		<startTime>04:00</startTime>
+		<launchDay>MONDAY</launchDay>
+	</script>
+	<script id = "3">
+		<name>C:\Users\dimad\Desktop\JAVA PROJECTS\Scheldure project\scripts\courseUdemy.jar</name>
+		<startTime>05:00</startTime>
+		<launchDay>TUESDAY</launchDay>
+	</script> -->
+</scripts>
